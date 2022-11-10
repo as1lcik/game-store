@@ -1,0 +1,25 @@
+.order-page {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-page__left {
+    width: 70%;
+}
+
+.order-page__right {
+    width: 27%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.button{
+    font-size: 15px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+    background: rgb(85, 88, 237);
+    color: white;
+    cursor: pointer;
+}
